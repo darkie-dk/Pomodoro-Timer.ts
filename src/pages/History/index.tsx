@@ -20,7 +20,7 @@ export function History() {
               <td>20 min</td>
               <td>1 week ago</td>
               <td>
-                <Status statusColor="green">Done</Status>
+                <Status statusColor="yellow">In progress</Status>
               </td>
             </tr>
             <tr>
